@@ -1,0 +1,6 @@
+art
+colorama
+bs4
+os
+time
+urllib3

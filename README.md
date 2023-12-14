@@ -13,7 +13,6 @@ OMİCRON SMS BOMBER is a Python script that allows you to send multiple SMS mess
 - Specify the interval between messages.
 
 ## İnstallation
-## İnstallation
 ```bash
 git clone https://github.com/omicr0nn/smsbomb
 ```

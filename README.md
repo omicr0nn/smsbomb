@@ -27,10 +27,8 @@ pip install -r requirements.txt
 python smsbomber.py
 ```
 
-
-## Important Note
-
-Be aware of the legal implications and ethical considerations when using this script. Unauthorized use of this script to send SMS messages without consent may violate laws and terms of service.
+Also click to use in replit
+<p align="left"><a href="https://replit.com/@omicr0n/slowsmsbomber"><img src="https://skillicons.dev/icons?i=replit"></a></p>
 
 ![Kali](https://i.hizliresim.com/qd3u5by.png)
 

@@ -41,9 +41,6 @@ This script is created for educational purposes and should be used responsibly. 
 
 ---
 
-{**} Made by omicron
-
-
 
 # With ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
